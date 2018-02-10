@@ -1,0 +1,12 @@
+RA 72/2014 Danijela Zelenovic
+file       sum
+video-0.avi	10
+video-1.avi	67
+video-2.avi	50
+video-3.avi	68
+video-4.avi	66 
+video-5.avi	46 
+video-6.avi	89
+video-7.avi	50
+video-8.avi	78
+video-9.avi	67
